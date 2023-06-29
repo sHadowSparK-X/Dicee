@@ -1,2 +1,2 @@
 # Dicee
-Let's Dice 
+Check your luck using dice!
