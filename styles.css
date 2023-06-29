@@ -22,6 +22,12 @@ h1 {
   color: #4ECCA3;
 }
 
+@media (max-width: 1538px) {
+  h1 {
+    font-size: 5rem;
+  }
+}
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
